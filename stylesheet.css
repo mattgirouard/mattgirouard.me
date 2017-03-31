@@ -1,4 +1,40 @@
-.white {
+.mainBanner {
 	text-align: center;
-	color: white;
+	background-color: white;
+}
+
+.grayBanner {
+	text-align: center;
+	background-color: #969e99;
+	vertical-align: top;
+	padding-top:1px;
+	padding-bottom:1px;
+}
+
+.lightGreenBanner {
+	text-align: center;
+	background-color: #32a865;
+	vertical-align: top;
+	padding-top:1px;
+	padding-bottom:1px;
+}
+
+.githubLink:link {
+	text-decoration: underline;
+	color:black;
+}
+
+.githubLink:visited {
+	text-decoration: underline;
+	color:black;
+}
+
+.githubLink:hover {
+	text-decoration: underline;
+	color:black;
+}
+
+.githubLink:active {
+	text-decoration: underline;
+	color:black;
 }
